@@ -1,3 +1,12 @@
+#include <iostream>
 
-ls
+using namespace std;
 
+
+int main()
+
+{
+
+        cout << "Hello World\n";
+
+}
